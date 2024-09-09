@@ -22,4 +22,12 @@
         }
     }
 
+    public partial class MainPage : ContentPage
+    {
+        private void Metodoaleatorio() { 
+        // Faz algo
+        
+        }
+
+    }
 }
